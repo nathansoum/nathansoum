@@ -1,19 +1,24 @@
 <h1 align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A3C585&width=435&lines=Nice+to+meet+you!+I'm+Nate.+%F0%9F%91%8B%F0%9F%8F%BC"
-alt="Nice to meet ya 👋">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A7B0ED&width=435&lines=Nice+to+you+meet+you%2C+I'm+Nate.+%F0%9F%91%8B"
+alt="Nice to meet you 👋">
 </h1>
 
-<!--
-**nathansoum/nathansoum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+<div style="display: flex">
+<p style="font-size: 16px">
+  An aspiring Full-Stack Developer who graduated from the UPENN LPS Coding Bootcamp.<br /> 
+  Currently, I am building passion projects to become a better and become more and more familiar with the world of tech! <br />
+  Feel free to look around and I'm always open to any advice or tips to become a better developer! 
+</p>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Languages & Technologies
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-393D5A?&logo=JavaScript)
+![Node.js](https://img.shields.io/badge/-Node.js-393D5A?&logo=node.js)
+![React](https://img.shields.io/badge/-React-393D5A?&logo=React)
+
+<img align="left" width="250" height="250"
+    src="./assets/images/coding.gif" 
+    alt="coding gif"/>
