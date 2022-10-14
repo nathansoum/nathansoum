@@ -9,9 +9,9 @@ alt="Nice to meet you 👋">
   An aspiring Full-Stack Developer who graduated from the UPENN LPS Coding Bootcamp. Currently, I am building passion projects to become a better and become more and more familiar with the world of tech! Feel free to look around and I'm always open to any advice or tips to become a better developer! 
 </p>
 
-<img align="right" width="300" height="300"
-     src="https://dribbble.com/shots/4753031-Designer?utm_source=Clipboard_Shot&utm_campaign=KeithRodman&utm_content=Designer&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=KeithRodman&utm_content=Designer&utm_medium=Social_Share" 
-     alt="coding gif"/>
+<!-- <img align="right" width="300" height="300"
+     src="" 
+     alt="coding gif"/> -->
 
 ## Languages & Technologies
 
