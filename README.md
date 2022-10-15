@@ -8,7 +8,7 @@ alt="Nice to meet you 👋">
 <div style="display: flex">
 <p style="font-size: 16px">
   An aspiring Full-Stack Developer who graduated from the UPENN LPS Coding Bootcamp.<br /> 
-  Currently, I am building passion projects to become a better and become more and more familiar with the world of tech! <br />
+  Currently, I am building passion projects to become a better developer and become more and more familiar with the world of tech! <br />
   Feel free to look around and I'm always open to any advice or tips to become a better developer! 
 </p>
 </div>
