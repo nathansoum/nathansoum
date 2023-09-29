@@ -7,9 +7,7 @@ alt="Nice to meet you 👋">
 
 <div style="display: flex">
 <p style="font-size: 16px">
-  An aspiring Full-Stack Developer who graduated from the UPENN LPS Coding Bootcamp.<br /> 
-  Currently, I am building passion projects to become a better developer and become more and more familiar with the world of tech! <br />
-  Feel free to look around and I'm always open to any advice or tips to become a better developer! 
+  Hi, my Name is Nate! I'm a Teaching Assistant for edX's Full-Stack Flex Boot Camps.<br />
 </p>
 </div>
 
@@ -19,6 +17,3 @@ alt="Nice to meet you 👋">
 ![Node.js](https://img.shields.io/badge/-Node.js-393D5A?&logo=node.js)
 ![React](https://img.shields.io/badge/-React-393D5A?&logo=React)
 
-<img align="left" width="250" height="250"
-    src="./assets/images/coding.gif" 
-    alt="coding gif"/>
